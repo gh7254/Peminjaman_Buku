@@ -3,8 +3,8 @@
 Selamat datang di repositori kolaborasi ini! File ini dibuat sebagai langkah awal kontribusi antar kolaborator.
 
 ## 👥 Anggota Tim
-* **[Nama Teman Anda]** - Pemilik Repositori (Owner)
-* **[Nama Anda]** - Kolaborator
+* **[Dafa Cocacola]** - Pemilik Repositori (Owner)
+* **[Alvin Ganteng]** - Kolaborator
 
 ## 🎯 Tujuan Proyek
 * Berkolaborasi dalam mengembangkan kode.
