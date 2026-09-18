@@ -1,4 +1,4 @@
-# 🚀 Proyek Kolaborasi Keren
+# 🚀 Proyek Kolaborasi Paten
 
 Selamat datang di repositori kolaborasi ini! File ini dibuat sebagai langkah awal kontribusi antar kolaborator.
 
